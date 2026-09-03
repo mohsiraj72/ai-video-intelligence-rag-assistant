@@ -7,8 +7,6 @@
 AI Video Assistance is an intelligent tool that processes YouTube videos or local media files and extracts:
 - 📝 **Full Transcripts** — Multi-language support (English via Whisper, Hinglish via Sarvam)
 - 🎯 **Smart Summaries** — Professional bullet-point summaries
-- ✅ **Action Items** — Automatically extracted tasks
-- 🔑 **Key Decisions** — Important decisions identified
 - ❓ **Open Questions** — Unresolved questions highlighted
 - 💬 **RAG Chat** — Ask questions about the video content with context-aware answers
 

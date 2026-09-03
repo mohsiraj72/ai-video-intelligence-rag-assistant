@@ -10,7 +10,6 @@ dependencies = [
 "yt-dlp>=2025.1.0",
 "pydub>=0.25.1",
 
-```
 # Speech-to-Text
 "openai-whisper>=20231117",
 "torch>=2.2.0",
@@ -45,8 +44,6 @@ dependencies = [
 
 # PDF Export
 "reportlab>=4.2.0",
-```
-
 ]
 
 [project.scripts]
